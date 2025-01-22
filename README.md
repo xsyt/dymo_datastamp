@@ -52,7 +52,7 @@ The script performs the following steps:
 
 This project is licensed under the GNU General Public License v3.0. See the [LICENSE](http://_vscodecontentref_/1) file for details.
 
-![screenshot](<pics/pics/20250121_181058_1.gif>)
+![screenshot](<pics/Screenshot 2025-01-22 at 22.44.10.png>)
 ![example print](<pics/photo_5805460822913303966_y.jpg>)
-![print process](<pics/pics/20250121_181058_1.gif>)
+![video in action](<pics/20250121_181058_1.gif>)
 
