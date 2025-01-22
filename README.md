@@ -54,5 +54,5 @@ This project is licensed under the GNU General Public License v3.0. See the [LIC
 
 ![Image description](<pics/pics/20250121_181058_1.gif>)
 ![Image description](<pics/photo_5805460822913303966_y.jpg>)
-![Image description](<pics/photo_5805460822913303966_y.jpg>)
+![Image description](<pics/pics/20250121_181058_1.gif>)
 
