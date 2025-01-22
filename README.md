@@ -29,7 +29,7 @@ This project uses a Dymo LabelWriter printer and a Raspberry Pi with a simple Py
     ```
 
 4. Connect your Dymo LabelWriter printer to the Raspberry Pi and configure it using the CUPS web interface (`http://localhost:631`).
-5. Make bootable 'print_label.py' file, using 'systemd', 'rc.local' or 'crontab' method.
+5. Make bootable "print_label.py" file, using `systemd`, `rc.local` or `crontab` method.
 
 ## Usage
 
