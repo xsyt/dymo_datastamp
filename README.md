@@ -51,5 +51,6 @@ The script performs the following steps:
 
 This project is licensed under the GNU General Public License v3.0. See the [LICENSE](http://_vscodecontentref_/1) file for details.
 
+![Image description](<pics/Screenshot 2025-01-22 at 22.44.10.png>)
 ![Image description](<pics/photo_5805460822913303966_y.jpg>)
 
