@@ -1,4 +1,4 @@
-# dymo_datastamp
+# Dymo datastamp label printer
 
 This project uses a Dymo LabelWriter printer and a Raspberry Pi with a simple Python script to create a timestamp picture and send it to the printer. The printer uses the CUPS Dymo driver to print the label, which is used to mark the open date for food in the fridge.
 
