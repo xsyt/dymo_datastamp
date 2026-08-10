@@ -25,7 +25,8 @@ This project uses a Dymo LabelWriter printer and a Raspberry Pi with a simple Py
 
 3. Install the required Python libraries:
     ```sh
-    pip install pycups Pillow RPi.GPIO
+    ### pip install pycups Pillow RPi.GPIO -- obstolete
+    sudo apt install python3-cups python3-pil python3-rpi.gpio
     ```
 
 4. Connect your Dymo LabelWriter printer to the Raspberry Pi and configure it using the CUPS web interface (`http://localhost:631`).
