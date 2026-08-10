@@ -27,7 +27,11 @@ def create_label(output_file):
     except IOError:
         font = ImageFont.load_default()
 
-    text_width, text_height = draw.textsize(current_time, font=font)
+    # Calculate text dimensions using the updated Pillow method
+    left, top, right, bottom = draw.textbbox((0, 0), current_time, font=font)
+    text_width = right - left
+    text_height = bottom - top
+    
     x = (label_width_px - text_width) // 2
     y = (label_height_px - text_height) // 2
     draw.text((x, y), current_time, fill="black", font=font)
