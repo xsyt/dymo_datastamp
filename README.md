@@ -20,12 +20,13 @@ This project uses a Dymo LabelWriter printer and a Raspberry Pi with a simple Py
 
 2. Add your user to the `lpadmin` group:
     ```sh
-    sudo usermod -aG lpadmin pi
+    ### O -- obstolete ### sudo usermod -aG lpadmin pi
+    sudo usermod -a -G lpadmin $USER
     ```
 
 3. Install the required Python libraries:
     ```sh
-    ### pip install pycups Pillow RPi.GPIO -- obstolete
+    ### -- obstolete ### pip install pycups Pillow RPi.GPIO
     sudo apt install python3-cups python3-pil python3-rpi.gpio
     ```
 
